@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre');
+@import url('https://fonts.googleapis.com/css2?family=Bungee');
+
 .App {
   text-align: center;
 }
